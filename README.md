@@ -1,8 +1,10 @@
 # ebooks
 
 more
+ - https://sobooks.net/
  - https://xmsoushu.com/#/
  - https://github.com/0voice/expert_readed_books
+ - http://www.ixinqing.com/book/hot
  - https://www.academia.edu/
  - https://zhuanlan.zhihu.com/p/444880913
 
