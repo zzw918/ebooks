@@ -1,6 +1,7 @@
 # ebooks
 
 more
+ - https://www.book123.info/
  - https://drive.google.com/drive/folders/1cwmlsCwnl875IeuM0J9CTH0Y9naZQzyb
  - https://honeypdf.com/
  - https://sobooks.net/
